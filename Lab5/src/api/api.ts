@@ -1,7 +1,6 @@
 //API
 const BASE_URL = 'https://kami-backend-5rs0.onrender.com';
 
-// api/api.ts
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 export const logOut = async () => {
